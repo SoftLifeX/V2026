@@ -137,7 +137,7 @@ export function ContactForm() {
               type="tel"
               value={formData.phone}
               onChange={handleInputChange}
-              placeholder="+234-123-456-7890"
+              placeholder="+1 (555) 123-4567"
               disabled={isPending}
               className={`block w-full pl-10 pr-3 py-3 border ${
                 state.errors?.phone ? 'border-destructive' : 'border-input'
