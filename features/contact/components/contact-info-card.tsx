@@ -6,19 +6,19 @@ export function ContactInfoCard() {
     {
       icon: <Mail className="w-5 h-5" />,
       label: 'Email',
-      value: 'ismailchabane2@gmail.com',
-      href: 'mailto:ismailchabane2@gmail.com'
+      value: 'daniel.c.daniel.dev@gmail.com',
+      href: 'mailto:daniel.c.daniel.dev@gmail.com'
     },
     {
       icon: <Phone className="w-5 h-5" />,
       label: 'Phone',
-      value: '+212 655 19 15 79',
-      href: 'tel:+212655191579'
+      value: '+234 813 933 1585',
+      href: 'tel:+234 813 933 1585 '
     },
     {
       icon: <MapPin className="w-5 h-5" />,
       label: 'Location',
-      value: 'Morocco Mohammedia',
+      value: 'Nigeria',
       href: null
     }
   ]
@@ -27,17 +27,17 @@ export function ContactInfoCard() {
     {
       icon: <Github className="w-5 h-5" />,
       label: 'GitHub',
-      href: 'https://github.com/ismailchabane'
+      href: 'https://github.com/SoftLifeX'
     },
     {
       icon: <Linkedin className="w-5 h-5" />,
       label: 'LinkedIn',
-      href: 'https://linkedin.com/in/ismail-chabane/'
+      href: 'https://linkedin.com/in/daniel-c-daniel-dev'
     },
     {
       icon: <Twitter className="w-5 h-5" />,
       label: 'Twitter',
-      href: 'https://x.com/Hx0dev'
+      href: 'https://x.com/SoftLifeX'
     }
   ]
 
@@ -78,7 +78,7 @@ export function ContactInfoCard() {
 
       {/* Social Links */}
       <div>
-        <h4 className="text-xl font-bold text-foreground mb-4">Follow Me</h4>
+        <h4 className="text-xl font-bold text-foreground mb-4">Feeling Social?</h4>
         <div className="flex gap-3">
           {socialLinks.map((social, index) => (
             <a
