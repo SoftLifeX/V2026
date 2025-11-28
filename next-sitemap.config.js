@@ -6,5 +6,6 @@ module.exports = {
     additionalPaths: async () => ([
       { loc: 'https://softlifex.vercel.app/' },
       { loc: 'https://softlifex.vercel.app/projects' }
+      { loc: 'https://softlifex.vercel.app/contact' }
     ]),
   };
