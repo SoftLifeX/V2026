@@ -56,9 +56,9 @@ export function ContactForm() {
   return (
     <div>
       <div className="mb-8">
-        <h3 className="text-2xl font-bold text-foreground mb-3">Send a Message</h3>
+        <h3 className="text-2xl font-bold text-foreground mb-3">Ready to level Up? </h3>
         <p className="text-muted-foreground">
-          Fill out the form below and I'll get back to you as soon as possible.
+          What are we working on today? 
         </p>
       </div>
 
@@ -137,7 +137,7 @@ export function ContactForm() {
               type="tel"
               value={formData.phone}
               onChange={handleInputChange}
-              placeholder="+1 (555) 123-4567"
+              placeholder="+234-123-456-7890"
               disabled={isPending}
               className={`block w-full pl-10 pr-3 py-3 border ${
                 state.errors?.phone ? 'border-destructive' : 'border-input'
