@@ -1,0 +1,32 @@
+warning: in the working copy of 'app/(home)/_components/hero/hero.tsx', LF will be replaced by CRLF the next time Git touches it
+[1mdiff --git a/app/(home)/_components/hero/hero.tsx b/app/(home)/_components/hero/hero.tsx[m
+[1mindex 3b66df9..c22b2bc 100644[m
+[1m--- a/app/(home)/_components/hero/hero.tsx[m
+[1m+++ b/app/(home)/_components/hero/hero.tsx[m
+[36m@@ -13,7 +13,7 @@[m [mconst Avatar = forwardRef<HTMLDivElement>((props, ref) => ([m
+     {...props}[m
+   >[m
+     <div className="relative w-35 h-35 rounded-full overflow-hidden border-2 border-success shadow-lg">[m
+[31m-      <div className="absolute inset-0 flex justify-center items-center bg-black w-full h-full z-10 opacity-30"/>[m
+[32m+[m[32m      <div className="absolute inset-0 flex justify-center items-center bg-black w-full h-full z-10 opacity-20"/>[m
+       <Image[m
+         src="/assets/ismailchabane.png"[m
+         alt="Ismail Chabane Avatar"[m
+[36m@@ -89,7 +89,7 @@[m [mconst Description = forwardRef<HTMLDivElement>((props, ref) => ([m
+   >[m
+     <div className="space-y-1">[m
+       <p className="text-xl md:text-2xl font-semibold text-foreground">[m
+[31m-        Software Developer & DevOps Engineer[m
+[32m+[m[32m      Software Developer · React · Java[m
+       </p>[m
+       <p className="text-lg md:text-xl text-muted-foreground">[m
+         Master&apos;s in Data Science & Big Data[m
+[36m@@ -103,7 +103,7 @@[m [mconst Description = forwardRef<HTMLDivElement>((props, ref) => ([m
+         Mobile Development[m
+       </span>[m
+       <span className="px-3 py-1 bg-card-2 rounded-full border border-border">[m
+[31m-        Cloud Infrastructure[m
+[32m+[m[32m        DevOps[m
+       </span>[m
+     </div>[m
+   </div>[m
