@@ -191,7 +191,7 @@ This project is private and proprietary. All rights reserved.
 
 ## 🤝 Connect
 
-- **Portfolio**: [ismaiclchabane.com](https://softlifex.vercel.app)
+- **Portfolio**: [softlifex.vercel.app](https://softlifex.vercel.app)
 - **Email**: Available through contact form
 - **GitHub**: [SoftLifeX](https://github.com/SoftLifeX)
 
