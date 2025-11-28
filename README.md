@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="public/assets/ismailchabaneSite.png" alt="Ismail Chabane Portfolio" width="800"/>
+  <img src="public/assets/ismailchabaneSite.png" alt="Only One SoftLife Portfolio" width="800"/>
   
-  # Ismail Chabane - Portfolio Website
+  # Only One SoftLife - Portfolio Website
   
   [![Next.js](https://img.shields.io/badge/Next.js-16.0-black?style=flat-square&logo=next.js)](https://nextjs.org/)
   [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
@@ -10,7 +10,7 @@
   
   A modern, responsive portfolio website showcasing my work as a Software Developer specializing in Full-Stack Development, Mobile Development, and DevOps.
   
-  [🌐 Live Website](https://ismailchabane.com) • [📧 Contact](https://ismailchabane.com/contact)
+  [🌐 Live Website](https://softlifex.vercel.app ) • [📧 Contact](https://softlifex.vercel.app/contact)
 </div>
 
 ---
@@ -191,12 +191,12 @@ This project is private and proprietary. All rights reserved.
 
 ## 🤝 Connect
 
-- **Portfolio**: [ismailchabane.com](https://ismailchabane.com)
+- **Portfolio**: [ismaiclchabane.com](https://softlifex.vercel.app)
 - **Email**: Available through contact form
-- **GitHub**: [@IsmailChabane](https://github.com/ismailchabane)
+- **GitHub**: [SoftLifeX](https://github.com/SoftLifeX)
 
 ---
 
 <div align="center">
-  <p>© 2024 Ismail Chabane. All rights reserved.</p>
+  <p>© 2026 Only One SoftLife . All rights reserved.</p>
 </div>
