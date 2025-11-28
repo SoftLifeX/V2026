@@ -18,28 +18,32 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Daniel C Daniel | Full Stack Software Developer",
-  description: "Daniel C Daniel's website - Award-winning Full Stack Software Developer.",
+  title: "SoftLifeX | Daniel C Daniel – Full Stack Software Developer & Designer",
+  description:
+    "SoftLifeX (Daniel C Daniel) is a Full Stack Software Developer, Designer, and Mobile Engineer specializing in React, Next.js, TypeScript, and modern UI development. Explore projects, case studies, and engineering articles.",
   keywords: [
+    "SoftLifeX",
+    "Only One Softlife",
     "Daniel C Daniel",
-    "Softlife",
-    "Softlifex", 
+    "Daniel Daniel Developer",
     "Full Stack Developer",
-    "Software Developer", 
-    "React Developer",
-    "Next.js",
-    "TypeScript",
-    "Tailwind CSS",
-    "Web Development",
     "Software Engineer",
     "Frontend Developer",
     "Backend Developer",
-    "JavaScript",
-    "Node.js"
+    "React Developer",
+    "Next.js Developer",
+    "TypeScript Developer",
+    "JavaScript Developer",
+    "Mobile Developer",
+    "Web Developer in Nigeria",
+    "UI/UX Developer",
+    "Tailwind CSS",
+    "Node.js",
+    "Portfolio Developer Nigeria"
   ],
-  authors: [{ name: "Daniel C Daniel " }],
-  creator: "Daniel C Daniel ",
-  publisher: "Daniel C Daniel",
+  authors: [{ name: "Daniel C Daniel (SoftLifeX)" }],
+  creator: "SoftLifeX (Daniel C Daniel)",
+  publisher: "SoftLifeX",
   robots: {
     index: true,
     follow: true,
@@ -51,35 +55,42 @@ export const metadata: Metadata = {
       "max-snippet": -1,
     },
   },
+
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "",
-    title: "Daniel C Daniel | Full Stack Software Developer",
-    description: "Daniel C Daniel's website - Award-winning Full Stack Software Developer.",
-    siteName: "Daniel C Daniel (SoftLife) Portfolio",
+    url: "https://softlifex.vercel.app",
+    title: "SoftLifeX | Daniel C Daniel – Full Stack Software Developer",
+    description:
+      "Explore the work of SoftLifeX (Daniel C Daniel), a Full Stack Developer & Designer building modern web and mobile experiences.",
+    siteName: "SoftLifeX – Official Portfolio",
     images: [
       {
         url: "/assets/openGraph.png",
         width: 1200,
         height: 630,
-        alt: "Daniel C Daniel - Full Stack Software Developer",
+        alt: "SoftLifeX (Daniel C Daniel) Portfolio",
       },
     ],
   },
+
   twitter: {
     card: "summary_large_image",
-    title: "Daniel C Daniel | Full Stack Software Developer",
-    description: "Professional portfolio showcasing full-stack development projects using React, Next.js, Java, and Spring Boot.",
-    images: ["/assets/ismailchabaneSite.png"],
-    creator: "",
+    title: "SoftLifeX | Full Stack Software Developer & Designer",
+    description:
+      "Portfolio of SoftLifeX (Daniel C Daniel) – Full Stack Developer skilled in React, Next.js, TypeScript, JavaScript, and UI design.",
+    images: ["/assets/openGraph.png"],
+    creator: "@yourActualTwitterHandle", // ← replace if needed
   },
+
   icons: {
     icon: "/favicon.ico",
     shortcut: "/favicon.ico",
     apple: "/favicon.ico",
   },
+
   manifest: "/manifest.json",
+
   other: {
     "theme-color": "#000000",
     "color-scheme": "light dark",
